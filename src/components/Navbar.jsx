@@ -10,7 +10,7 @@ function Navbar() {
       <div>
         <ul className="flex gap-8">
           <Link href={"/"}>Home</Link>
-          <Link href={"/"}>Categories</Link>
+          <Link href={"/Categories"}>Categories</Link>
           <Link href={"/"}>Contact us</Link>
           <Link href={"/Aboutus"}>About Us</Link>
         </ul>
